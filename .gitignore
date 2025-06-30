@@ -58,7 +58,7 @@ pids/
 swagger-output.json
 
 # Static files if generated during build
-/public/
+
 
 # Misc
 *.tgz
